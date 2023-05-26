@@ -21,8 +21,9 @@
 title: Max's Dev Notes
 email: maxwell.morgan.13@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Software development notes for data science, infrastructure development, 
-  web development, and developer operations (devops).
+  Max's Dev Notes is a notebook containing software development notes for
+  web & infrastructure development, data science, and
+  developer operations (devops). Find everything you need in one place.
 baseurl: "/devnotes" # the subpath of your site, e.g. /blog
 url: "https://mjmor.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: maxjmorgan
