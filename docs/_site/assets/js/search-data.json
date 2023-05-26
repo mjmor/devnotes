@@ -1,9 +1,58 @@
 {"0": {
     "doc": "About",
     "title": "About",
-    "content": "Software development notes for data science, infrastructure development, web development, and developer operations (devops). Authored by Max Morgan. Learn more about Max. ",
+    "content": "Max’s Dev Notes is a notebook containing software development notes for web &amp; infrastructure development, data science, and developer operations (devops). Find everything you need in one place. Authored by Max Morgan. Learn more about Max. ",
     "url": "/devnotes/about/",
     
     "relUrl": "/about/"
+  },"1": {
+    "doc": "AWS",
+    "title": "Amazon Web Services (AWS)",
+    "content": "Command environment configurations and build commands for AWS services. ",
+    "url": "/devnotes/dev-ops/aws#amazon-web-services-aws",
+    
+    "relUrl": "/dev-ops/aws#amazon-web-services-aws"
+  },"2": {
+    "doc": "AWS",
+    "title": "Setup AWS",
+    "content": "The minimal setup to get started using AWS services is: . | Create an AWS root user | Create an AWS user | Add the newly created AWS user to a set of scoped permissions | . Create an AWS Root User . The AWS root user is an admin account with superuser priveleges (complete access to all AWS services and resources in the account). Follow these steps from AWS to create such an account. Create an AWS User . Instead of using the AWS root user for all purposes, it’s safer to follow a model of least privelege and create a user with specific permissions. This is the AWS user. | Enable IAM Identity Center . | Let AWS create an AWS organization unless you’re creating a user for an organization you work with. | Let AWS use Identity Center Directory as the identity source so you can manage users and permission groups from IAM Identity Center. | . | Create admin and power user permission sets . | Go to IAM Identity Center &gt; Permission sets | Create a permission set using a predefined permission set of “AdministratorAccess” | Create a permission set using a predefined permission set of “PowerUserAccess” | . | Create a user in IAM Identity Center | Assign the permission groups to the user . | Go to IAM Identity Center &gt; AWS accounts | Check the box next to the account you created and select ‘Assign Users or Groups’ | Go to the users tab and assign the username you created and click Next | Select both permission sets you created (AdministratorAccess and PowerUserAccess), click Next, then Submit | . | . ",
+    "url": "/devnotes/dev-ops/aws#setup-aws",
+    
+    "relUrl": "/dev-ops/aws#setup-aws"
+  },"3": {
+    "doc": "AWS",
+    "title": "AWS",
+    "content": " ",
+    "url": "/devnotes/dev-ops/aws",
+    
+    "relUrl": "/dev-ops/aws"
+  },"4": {
+    "doc": "DevOps",
+    "title": "Developer Operations (DevOps)",
+    "content": "Command environment configurations and build commands for a variety of systems organized by platform (AWS, GCP, etc.). ",
+    "url": "/devnotes/dev-ops#developer-operations-devops",
+    
+    "relUrl": "/dev-ops#developer-operations-devops"
+  },"5": {
+    "doc": "DevOps",
+    "title": "DevOps",
+    "content": " ",
+    "url": "/devnotes/dev-ops",
+    
+    "relUrl": "/dev-ops"
+  },"6": {
+    "doc": "Elastic Beanstalk",
+    "title": "AWS Elastic Beanstalk",
+    "content": "Elastic Beanstalk is a platform-as-a-service (PaaS) for hosting web apps. Here are notes on configuring an Elastic Beanstalk environment with a new app. ",
+    "url": "/devnotes/dev-ops/aws/eb#aws-elastic-beanstalk",
+    
+    "relUrl": "/dev-ops/aws/eb#aws-elastic-beanstalk"
+  },"7": {
+    "doc": "Elastic Beanstalk",
+    "title": "Elastic Beanstalk",
+    "content": " ",
+    "url": "/devnotes/dev-ops/aws/eb",
+    
+    "relUrl": "/dev-ops/aws/eb"
   }
 }
