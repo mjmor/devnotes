@@ -1,7 +1,7 @@
 {"0": {
     "doc": "About",
     "title": "About",
-    "content": "Max’s Dev Notes is a notebook containing software development notes for web &amp; infrastructure development, data science, and developer operations (devops). Find everything you need in one place. Authored by Max Morgan. Learn more about Max. ",
+    "content": "Software development notes for data science, infrastructure development, web development, and developer operations (devops). Authored by Max Morgan. Learn more about Max. ",
     "url": "/devnotes/about/",
     
     "relUrl": "/about/"
@@ -43,11 +43,32 @@
   },"6": {
     "doc": "Elastic Beanstalk",
     "title": "AWS Elastic Beanstalk",
-    "content": "Elastic Beanstalk is a platform-as-a-service (PaaS) for hosting web apps. Here are notes on configuring an Elastic Beanstalk environment with a new app. ",
+    "content": "Elastic Beanstalk is a platform-as-a-service (PaaS) for hosting web apps. Below are notes on configuring an Elastic Beanstalk environment with a new web app. ",
     "url": "/devnotes/dev-ops/aws/eb#aws-elastic-beanstalk",
     
     "relUrl": "/dev-ops/aws/eb#aws-elastic-beanstalk"
   },"7": {
+    "doc": "Elastic Beanstalk",
+    "title": "Table of contents",
+    "content": ". | Configure App to Run on Elastic Beanstalk | Where To Look For Logs | . ",
+    "url": "/devnotes/dev-ops/aws/eb#table-of-contents",
+    
+    "relUrl": "/dev-ops/aws/eb#table-of-contents"
+  },"8": {
+    "doc": "Elastic Beanstalk",
+    "title": "Configure App to Run on Elastic Beanstalk",
+    "content": "Elastic Beanstalk only supports a few specific versions for the software used in our web app (e.g. Ruby, Puma Server), so we’ll need to make sure our web app is configured to use those versions as well. Otherwise, we’ll run into app install errors. First, take a look at our Gemfile to check the version of Ruby being used. If the Gemfile isn’t using the correct version (3.0.6 at the time of writing), then install the correct version using rbenv. Next, update your Gemfile to use that version of Ruby. The easiest way to do this is to let the Gemfile read .ruby-version file created by rbenv. Next, check the version of Puma being used. Look for puma ... in your Gemfile. If the Gemfile isn’t using the correct version (6.2.2 at the time of writing), then update uninstall the old version and reinstall the new version. ",
+    "url": "/devnotes/dev-ops/aws/eb#configure-app-to-run-on-elastic-beanstalk",
+    
+    "relUrl": "/dev-ops/aws/eb#configure-app-to-run-on-elastic-beanstalk"
+  },"9": {
+    "doc": "Elastic Beanstalk",
+    "title": "Where To Look For Logs",
+    "content": " ",
+    "url": "/devnotes/dev-ops/aws/eb#where-to-look-for-logs",
+    
+    "relUrl": "/dev-ops/aws/eb#where-to-look-for-logs"
+  },"10": {
     "doc": "Elastic Beanstalk",
     "title": "Elastic Beanstalk",
     "content": " ",
