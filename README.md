@@ -8,6 +8,7 @@ upon this repository and find it useful, then all the better!
 
 ## TODO
 
+1. Remove jekyll-feed plugin and ignore _site directory in git repository
 1. Add Rails notes top section
     1. Generating a new app
     1. Generating tests and testing
