@@ -12,8 +12,9 @@ upon this repository and find it useful, then all the better!
     1. Generating a new app
     1. Generating tests and testing
 1. Add DevOps notes on deploying Rails
-    1. How to deploy in production mode to
-        reduce source bundle size and memory footprint
+    1. How to [deploy in production mode](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Ruby.container.html) to
+        reduce source bundle size and memory footprint (make sure to add
+        RAILS_ENV to production and update RACK_ENV to deployment)
     1. How to add pre-commit hooks (esp. testing hooks) - [pre-commit repo](https://github.com/jish/pre-commit), [pre-commit ci docs](https://jish.github.io/pre-commit/checks/ci/)
 1. Add visual & UX design notes
     1. Import old notes & resources - [UX Design Cheatsheet](https://docs.google.com/document/d/1EM650-Spqyc-uiUeUZf2txY1c_74QC-SmctJwg2Nhi4/edit#)
