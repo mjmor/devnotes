@@ -9,9 +9,6 @@ upon this repository and find it useful, then all the better!
 ## TODO
 
 1. Add notes on using Jekyll
-    1. Deploying new Jekyll site
-    1. Basic commands for bundling and running the server
-    1. How to test Jekyll site
     1. How to use and create themes
     1. Integrating Strapi
 1. Add UX implementation notes
