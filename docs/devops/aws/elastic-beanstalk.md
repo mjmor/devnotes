@@ -4,7 +4,7 @@ title: Elastic Beanstalk
 nav_order: 1
 permalink: /dev-ops/aws/eb
 parent: AWS
-grand_parent: DevOps
+grand_parent: Developer Operations
 ---
 
 # AWS Elastic Beanstalk

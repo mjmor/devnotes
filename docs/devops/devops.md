@@ -1,12 +1,12 @@
 ---
 layout: default
-title: DevOps
-nav_order: 2
+title: Developer Operations
+nav_order: 3
 permalink: /dev-ops
 has_children: true
 ---
 
-# Developer Operations (DevOps)
+# Developer Operations (Dev Ops)
 
-Command environment configurations and build commands for a variety of systems organized by platform (AWS, GCP, etc.).
+Common cloud environment configurations and build commands for a variety of systems organized by platform (AWS, GCP, etc.).
 {: .fs-6 .fw-300 }

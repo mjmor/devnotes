@@ -3,7 +3,7 @@ layout: default
 title: AWS
 nav_order: 1
 permalink: /dev-ops/aws
-parent: DevOps
+parent: Developer Operations
 has_children: true
 ---
 
