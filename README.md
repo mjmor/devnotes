@@ -18,6 +18,7 @@ upon this repository and find it useful, then all the better!
 1. Add Rails notes top section
     1. Generating a new app
     1. Generating tests and testing
+1. Add CI/CD notes - Jenkins
 1. Add DevOps notes on deploying Rails
     1. How to [deploy in production mode](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Ruby.container.html) to
         reduce source bundle size and memory footprint (make sure to add
