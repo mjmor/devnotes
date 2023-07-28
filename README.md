@@ -23,6 +23,10 @@ upon this repository and find it useful, then all the better!
         reduce source bundle size and memory footprint (make sure to add
         RAILS_ENV to production and update RACK_ENV to deployment)
     1. How to add pre-commit hooks (esp. testing hooks) - [pre-commit repo](https://github.com/jish/pre-commit), [pre-commit ci docs](https://jish.github.io/pre-commit/checks/ci/)
+1. Add notes on Python gotchyas
+    1. Writing [packages](https://docs.python.org/3/tutorial/modules.html#packages)
+    1. Relative vs. absolute imports and directory context switching (note: always use absolute) -- [see stackoverflow](https://stackoverflow.com/questions/14132789/relative-imports-for-the-billionth-time)
+    1. Updating virtual env to [point to your local packages](https://stackoverflow.com/questions/4757178/how-do-you-set-your-pythonpath-in-an-already-created-virtualenv/47184788#47184788) so they're in the python path
 1. Add visual & UX design notes
     1. Import old notes & resources - [UX Design Cheatsheet](https://docs.google.com/document/d/1EM650-Spqyc-uiUeUZf2txY1c_74QC-SmctJwg2Nhi4/edit#)
     1. Watch figma videos and write out important highlights - [Visual Design](https://www.youtube.com/playlist?list=PLlJddLya2kqngHEHAEumTC7IP5dBJyq23), [UX Design](https://www.youtube.com/playlist?list=PLlJddLya2kqlIrrgpO8odTK-awv-jZ0of)
