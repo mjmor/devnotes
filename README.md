@@ -9,6 +9,7 @@ upon this repository and find it useful, then all the better!
 ## TODO
 
 1. Add notes on using Jekyll
+    1. Using webpack and React with Jekyll (https://medium.com/@allizadrozny/using-webpack-and-react-with-jekyll-cfe137f8a2cc)
     1. Integrating Strapi
 1. Add UX implementation notes
     1. CSS notes - [Mozilla Guide](https://developer.mozilla.org/en-US/docs/Learn/CSS)
