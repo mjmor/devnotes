@@ -13,7 +13,7 @@ Here's in-depth documentation on Drupal for admins and content editors: https://
 5. Modules - An add-on feature built in PHP to augment or add on to Drupal core (e.g. layouts/themes, field types, migration helpers, etc.)
 
 ## Planning a Drupal Site
-![Drupal Planning Diagram](./assets/drupal-planning.png)
+![Drupal Planning Diagram](../assets/drupal-planning.png)
 
 ## Content Types
 
@@ -63,7 +63,7 @@ Themes may also contain ![layouts](./drupal.md#layouts) that are used for conten
 
 Specifically, Drupal operates in the follow fashion when receiving a web request:
 
-<img src="./assets/drupal-request-processing-flow.png"  height="500">
+<img src="../assets/drupal-request-processing-flow.png"  height="500">
 
 ## Layouts
 
