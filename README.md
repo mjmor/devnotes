@@ -10,7 +10,8 @@ upon this repository and find it useful, then all the better!
 
 1. Add notes on using Jekyll
    1. Using webpack and React with Jekyll (https://medium.com/@allizadrozny/using-webpack-and-react-with-jekyll-cfe137f8a2cc)
-   1. Using React, Webpack, and Babel (https://dev.to/shivampawar/setup-webpack-and-babel-for-a-react-js-application-24f5)
+   1. Using React, Webpack, and Babel (https://dev.to/shivampawar/setup-webpack-and-babel-for-a-react-js-application-24f5, also see https://github.com/Pathos-Design-Studio/pathos-site/commit/6ea66b3dd0b0f68c6890164483d4566c5556d6a3)
+   1. Using Flow, ESLint, and Prettier (https://flow.org/en/docs/install/, https://flow.org/en/docs/tools/eslint/, option 2 here: https://stackoverflow.com/questions/51563112/flow-throws-error-cannot-resolve-module-react-redux-even-tho-its-installed, and impl here https://github.com/Pathos-Design-Studio/pathos-site/commit/954b0c235c0cab5e06737c80d427722bc80991de)
    1. Integrating Strapi with Jekyll (https://strapi.io/blog/building-a-static-website-using-jekyll-and-strapi)
 1. Add notes on using React
    1. Add notes on using React with strapi (https://docs.strapi.io/dev-docs/integrations/react)
