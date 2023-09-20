@@ -6,6 +6,14 @@ for various types of software development.
 The intended audience is mostly my forgetful self, however, if others stumble
 upon this repository and find it useful, then all the better!
 
+## Running the Site Locally
+
+Use jekyll's built-in simple server:
+```
+# From within the docs/ directory.
+$ bundle exec jekyll serve
+```
+
 ## TODO
 
 1. Add notes on using Jekyll

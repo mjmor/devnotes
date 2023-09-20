@@ -1,9 +1,28 @@
+---
+layout: default
+title: Drupal
+nav_order: 3
+permalink: /web-dev/drupal
+parent: Web Development
+has_children: false
+---
+
 # Drupal
+{: .no_toc }
+
+Overview of major Drupal CMS concepts as well as development on Drupal sites.
+{: .fs-6 .fw-300 }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 Drupal is a CMS built in PHP and Javascript. Unlike other CMS, Drupal enforces
 structured data for content.
 
-Here's in-depth documentation on Drupal for admins and content editors: https://www.drupal.org/docs/user_guide/en/index.html
+Here's [in-depth documentation](https://www.drupal.org/docs/user_guide/en/index.html) on Drupal for admins and content editors.
 
 ## Major Drupal Concepts
 1. Entity - Anything that can have fields (e.g. content types, blocks, taxonomy, media, etc.)
@@ -59,7 +78,7 @@ Users are entities, meaning we can add fields to users (e.g. profile fields).
 
 Themes are exactly what they sound like: visual wrappers on the site. Themes are made up of .css, .js, and .twig html templates. Themes can define how content type are rendered in a view.
 
-Themes may also contain ![layouts](./drupal.md#layouts) that are used for content types.
+Themes may also contain layouts that are used for content types.
 
 Specifically, Drupal operates in the follow fashion when receiving a web request:
 
@@ -156,9 +175,9 @@ Debugging Twig:
 
 ### Back-End Development
 
-You can enable verbose error logs displayed to the browser through [Drupal configuration](https://www.drupal.org/docs/develop/development-tools/enable-verbose-error-logging-for-better-backtracing-and-debugging).
+__TODO: Add more information on module development.__
 
-__TODO__
+You can enable verbose error logs displayed to the browser through [Drupal configuration](https://www.drupal.org/docs/develop/development-tools/enable-verbose-error-logging-for-better-backtracing-and-debugging).
 
 ### Multisite Architecture
 
