@@ -17,7 +17,7 @@
 * [Ruby on Rails Guides](https://guides.rubyonrails.org/index.html)
 
 
-### CSS 
+### CSS
 
 
 * [Mozilla Learn CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
@@ -96,7 +96,7 @@ Basically like flexbox for everything inside the frame.  You can nest frames jus
 
 ### Media Resources
 
-
+* [Placehold](https://placehold.co/) - placeholder images
 * [Pexels](https://www.pexels.com/) – images and videos
 * [Flaticons](https://www.flaticon.com/) – icons and stickers
 * [Unsplash](https://unsplash.com/) – images
@@ -110,7 +110,7 @@ Basically like flexbox for everything inside the frame.  You can nest frames jus
 
 * [Behance](https://www.behance.net/)
 * [Dribbble](https://dribbble.com/)
-* [Pentagram Portfolio](https://www.pentagram.com/work/dream-org) 
+* [Pentagram Portfolio](https://www.pentagram.com/work/dream-org)
 
 
 ### Learning Resources
@@ -126,7 +126,7 @@ Basically like flexbox for everything inside the frame.  You can nest frames jus
 ### Resources
 
 
-* [When to Use Which User-Experience Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/) 
+* [When to Use Which User-Experience Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/)
 
 
 ## Brand Guidelines
@@ -146,7 +146,7 @@ Basically like flexbox for everything inside the frame.  You can nest frames jus
     * [https://www.vincentpeterson.com/](https://www.vincentpeterson.com/)
     * [https://portfoliopayne.space/](https://portfoliopayne.space/)
     * [https://mopatel.design/](https://mopatel.design/)
-    * [https://scriblscribl.com/](https://scriblscribl.com/) 
+    * [https://scriblscribl.com/](https://scriblscribl.com/)
 
 
 ## Design Challenges & Volunteering
@@ -155,4 +155,4 @@ Basically like flexbox for everything inside the frame.  You can nest frames jus
 * [UX Design Challenges | UX Tools](https://uxtools.co/challenges/) ([uxtools-product-design-challenges.zip](https://drive.google.com/file/d/1KK2Gqm-w0m4IjMAkhMOFIUg579boQPXP/view?usp=share_link))
 * [UX And Product Design Challenges | Drawerrr](https://drawerrr.com/challenge)
 * [Weekly Challenges | Dribble](https://dribbble.com/tags/weekly_design_challenge)
-* [Creative Challenges | Behance](https://www.behance.net/galleries/challenges) 
+* [Creative Challenges | Behance](https://www.behance.net/galleries/challenges)
