@@ -2,7 +2,7 @@
 layout: default
 title: Drupal
 nav_order: 3
-permalink: /web-dev/drupal
+permalink: /webdev/drupal
 parent: Web Development
 has_children: false
 ---
@@ -171,7 +171,11 @@ Debugging Twig:
   * Note: Twig Tweak provides a breakpoint Twig function method [`drupal_breakpoint()`](https://git.drupalcode.org/project/twig_tweak/-/blob/3.x/docs/cheat-sheet.md#drupal-breakpoint). Also, [`xdebug_break()`]() may be used in PHP code.
   * [Debugging Twig with XDebug](https://www.drupal.org/project/twig_xdebug)
 
-#### Theme Rendering
+#### CSS
+
+Additional resources:
+* [Best practices for Druapl CSS design](https://www.drupal.org/docs/develop/standards/css/css-architecture-for-drupal-9#best-practices)
+* [Drupal CSS file organization](https://www.drupal.org/docs/develop/standards/css/css-file-organization)
 
 ### Back-End Development
 

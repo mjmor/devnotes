@@ -2,7 +2,7 @@
 layout: default
 title: Testing
 nav_order: 2
-permalink: /web-dev/jekyll/testing
+permalink: /webdev/jekyll/testing
 parent: Jekyll
 grand_parent: Web Development
 ---

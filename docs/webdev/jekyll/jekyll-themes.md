@@ -2,7 +2,7 @@
 layout: default
 title: Themes
 nav_order: 2
-permalink: /web-dev/jekyll/themes
+permalink: /webdev/jekyll/themes
 parent: Jekyll
 grand_parent: Web Development
 ---

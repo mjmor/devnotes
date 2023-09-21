@@ -2,7 +2,7 @@
 layout: default
 title: Setup
 nav_order: 1
-permalink: /web-dev/jekyll/setup
+permalink: /webdev/jekyll/setup
 parent: Jekyll
 grand_parent: Web Development
 ---

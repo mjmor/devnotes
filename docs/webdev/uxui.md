@@ -2,7 +2,7 @@
 layout: default
 title: UX/UI Development
 nav_order: 1
-permalink: /web-dev/uxui
+permalink: /webdev/uxui
 parent: Web Development
 has_children: false
 ---
@@ -34,6 +34,10 @@ Additional resources:
 ### Cascading Style Sheets (CSS)
 
 **TODO: Add overview and fundamentals.**
+
+Additional resources:
+* [Scalable and Modern Architecture for CSS](https://smacss.com/)
+* [Best practices for Druapl CSS design](https://www.drupal.org/docs/develop/standards/css/css-architecture-for-drupal-9#best-practices)
 
 #### PX vs. REM vs. EM
 
@@ -97,4 +101,4 @@ Additional resources:
 
 ### Drupal Theming
 
-See ![Drupal: Themes](./drupal.md#themes).
+See [Drupal: Themes](/webdev/drupal#themes) and [Drupal: Front-End Development](/webdev/drupal#front-end-development).

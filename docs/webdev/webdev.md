@@ -2,7 +2,7 @@
 layout: default
 title: Web Development
 nav_order: 2
-permalink: /web-dev
+permalink: /webdev
 has_children: true
 ---
 

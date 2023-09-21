@@ -2,7 +2,7 @@
 layout: default
 title: Jekyll
 nav_order: 2
-permalink: /web-dev/jekyll
+permalink: /webdev/jekyll
 parent: Web Development
 has_children: true
 ---
