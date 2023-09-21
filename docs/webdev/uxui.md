@@ -37,7 +37,6 @@ Additional resources:
 
 Additional resources:
 * [Scalable and Modern Architecture for CSS](https://smacss.com/)
-* [Best practices for Druapl CSS design](https://www.drupal.org/docs/develop/standards/css/css-architecture-for-drupal-9#best-practices)
 
 #### PX vs. REM vs. EM
 
