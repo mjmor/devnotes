@@ -38,6 +38,10 @@ Additional resources:
 Additional resources:
 * [Scalable and Modern Architecture for CSS](https://smacss.com/)
 
+#### Aggregation and Minimization / Compression
+
+**TODO: Add notes on tech like webpack.**
+
 #### PX vs. REM vs. EM
 
 PX stands for pixel.
