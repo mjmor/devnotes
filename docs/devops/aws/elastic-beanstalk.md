@@ -138,6 +138,12 @@ Finally, we'll use EB configuration to create a crontab entry to renew the cert 
 That's it! Go ahead and redeploy your app and try connecting to the site. You should see the site being served over port 443
 (i.e. a lock icon in the browser).
 
+## CI/CD on Elastic Beanstalk
+
+Additional resources:
+* [Guide on setting up CI/CD for web app and Elastic Beanstalk](https://www.buildon.aws/tutorials/deploy-webapp-eb-cdk#add-the-elastic-beanstalk-cdk-dependencies)
+* [AWS SDK for Ruby (e.g. to setup CI/CD in the Ruby app)](https://docs.aws.amazon.com/sdk-for-ruby/v3/api/index.html)
+
 ## Where To Look For Logs
 
 Here's a list of EB log file locations and what they contain:

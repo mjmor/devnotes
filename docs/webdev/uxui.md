@@ -10,7 +10,7 @@ has_children: false
 # UX/UI Development
 {: .no_toc }
 
-Foundational knowledge for all types of UX/UI development tasks ranging from visual design to client-side software.
+Foundational knowledge for all types of UX/UI development tasks ranging from theming to client-side software.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -19,16 +19,6 @@ Foundational knowledge for all types of UX/UI development tasks ranging from vis
 1. TOC
 {:toc}
 
-## Visual Design
-
-### Typography
-
-Typography is the style and appearance of (digitally or physically) printed text.
-
-Additional resources:
-  * [web typography basics in Figma](https://webdesign.tutsplus.com/web-typography-basics-in-figma--CRS-200982c)
-  * [advanced typography design in Figma](https://webdesign.tutsplus.com/advanced-typography-design-in-figma--CRS-200991c/adjusting-font-sizes)
-
 ## Themes & Styles
 
 ### Cascading Style Sheets (CSS)
@@ -36,40 +26,41 @@ Additional resources:
 **TODO: Add overview and fundamentals.**
 
 Additional resources:
+* [Mozilla Learn CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 * [Scalable and Modern Architecture for CSS](https://smacss.com/)
 
-#### Aggregation and Minimization / Compression
+**Aggregation and Minimization / Compression**
 
 **TODO: Add notes on tech like webpack.**
 
-#### PX vs. REM vs. EM
+**PX vs. REM vs. EM**
 
 PX stands for pixel.
 
-**When to use PXs**
+_When to use PXs_
 * When you need a fixed layout size to prevent scaling from breaking functionality (e.g. overlapping buttons or not being able to fit a control panel in the viewport).
 
 REM is a relative unit of measurement REM stands for root EM.
 
-**When to use REMs**
+_When to use REMs_
 * When you want elements to be scalable based on the HTML element font size which is typically based on user browser settings. So it's good to generally use REMs to respect user browser settings.
 
-**REM Details**
+_REM Details_
 * REM computes px relative to the parent HTML (i.e. what the browser or website has set at the root HTML element)
 * The computed value is HTML_parent_font_px * element_rem. E.g. HTML element font size is set to 16px font-size and current element width is set to 10rem then the current element width will be computed as 160px.
 * Note: The HTML element font size is often set by the browser (default or user settings) and not directly in stylesheets. This is different from window zoom which scales up the size of a pixel to take up more device pixels (see [more details on StackOverflow](https://stackoverflow.com/questions/29390155/what-exactly-changes-in-the-css-rendering-when-desktop-browsers-zoom-in-or-out)).
 
 EM is a relative unit of measurement.
 
-**When to use EMs**
+_When to use EMs_
 * When an element size must scale with the font size of that element. A good example is the padding of a button since you would want the padding to scale with the font size of the button (regardless of the HTML element font size).
 
-**EM Details**
+_EM Details_
 * EM computes px relative to the element that the em value is used on
 * The computed value is element_font_px * element_rem. E.g. Current element font size is set to 16px font-size and current element width is set to 10em then the current element width will be computed as 160px.
 * Using ems can be tricky because font-size of the current element is inerited from parent elements by default. Therefore, if we have nested elements setting font size with ems then there could be an exponential increase in font-size through inheritance. A fast fix in this case would be to set the current element (or its parent) font-size to 1rem so that it resets the font-size inheritance chain to the HTML element.
 
-**When to use neither EMs nor REMs nor PXs**
+_When to use neither EMs nor REMs nor PXs_
 * When setting line height, do not use any units. Unitless line height will compute the line height based on the children font settings.
 
 See a [comprehensive comparison guide](https://webdesign.tutsplus.com/comprehensive-guide-when-to-use-em-vs-rem--cms-23984t) or a [visual overview](https://webdesign.tutsplus.com/a-visual-guide-to-em-and-rem-units--CRS-200720c/overview-of-px-em-and-rem).
