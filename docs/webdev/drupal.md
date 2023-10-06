@@ -34,6 +34,11 @@ Here's [in-depth documentation](https://www.drupal.org/docs/user_guide/en/index.
 ## Planning a Drupal Site
 ![Drupal Planning Diagram](../assets/drupal-planning.png)
 
+## Learning Resources
+
+* [SimplyTest](https://simplytest.me/) - select a module and drupal version and spin up a drupal instance instantly.
+* [Drupalize.me](https://drupalize.me/) – paid content with roles from core developer up to content editor and admins.
+
 ## Content Types
 
 A content type is a type of content with a collection of fields (values or references). A new content type may be needed when:
@@ -186,6 +191,3 @@ You can enable verbose error logs displayed to the browser through [Drupal confi
 ### Multisite Architecture
 
 Simply put a multisite architecture allows a single drupal installation to run multiple websites. How resources are shared (or not) depend on the setup. For example, you could have a single database server (i.e. appserver) for all the multisites. Drupal will also use codepaths specific to the a multisite instance in case it is running different modules.
-
-## Additional Resources
-* [Drupalize.me](https://drupalize.me/) – paid content with roles from core developer up to content editor and admins.

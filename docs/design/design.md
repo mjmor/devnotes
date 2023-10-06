@@ -11,19 +11,58 @@ has_children: false
 Notes on many forms of design ranging from print and digital media to typography to UI/UX.
 {: .fs-6 .fw-300 }
 
-## Visual Design
+## Design Trends
 
-### Typography
+For an overview of trends and tradeoffs, see this article from [Nielsen Norman Group](https://www.nngroup.com/articles/flat-design/).
+
+### 3D Design
+
+![](../assets/win95-3d-design.jpg)
+
+### Skeuomorphism
+
+Using elements from the real-world to support a metaphor that helps the user understand the interface.
+
+![](../assets/bookstore-skeuomorphism.jpg)
+
+### Realism
+
+Skeuomorphism is often confused with realism. In web design, the two styles are usually found together. The primary distinction is that realism is a visual style that uses design elements and textures that mimic the physical world for purely aesthetic purposes, while skeuomorphism supports a metaphor to help users understand the interface.
+
+![](../assets/sprouts-realism.jpg)
+
+### Flat
+
+Remove all drop shadows and design cues to mimic the real world.
+
+![](../assets/apple-flat.jpg)
+
+### Flat 2.0
+
+Like flat, but bringing back some subtle clickability signifiers like drop-shadows.
+
+![](../assets/portfolio-flat2.png)
+
+Note: This example uses extremely long shadows which is advised against.
+
+### Neumorphism
+
+A focus on minimalism and lighting.
+
+![](../assets/calculator-neumorphism.webp)
+
+https://medium.com/throughdesign/neumorphism-and-what-it-means-27c23da8576e
+
+## Color Theory
+
+**Tools**
+* [Adobe Color Wheel](https://color.adobe.com/create/color-wheel)
+
+## Typography
 
 Typography is the style and appearance of (digitally or physically) printed text.
 
-To modify type directly, you may convert text to vector paths:
-  * Flatten text → converts to single layer (Cmd-E)
-  * Outline stroke → converts to multiple layers (Shift-Cmd-O)
-
 Additional resources:
-  * [web typography basics in Figma](https://webdesign.tutsplus.com/web-typography-basics-in-figma--CRS-200982c)
-  * [advanced typography design in Figma](https://webdesign.tutsplus.com/advanced-typography-design-in-figma--CRS-200991c/adjusting-font-sizes)
   * [guide to choosing type](https://fonts.google.com/knowledge/choosing_type)
 
 **Font Options**
@@ -58,7 +97,7 @@ Paid
 * [MixFont](https://www.mixfont.com/)
 
 
-### Digital & Print Media
+## Digital & Print Media
 
 **Learning Resources**
 * [Aftereffects Tutorial](https://www.learnto.day/aftereffects)
@@ -74,25 +113,37 @@ Paid
 * [Flaticons](https://www.flaticon.com/) – icons and stickers
 * [Placehold](https://placehold.co/) - placeholder images
 
-### Brand Guidelines
+## Brand Guidelines
 
 **Additional Resources**
 * [Modern Brand Guidelines](https://dribbble.com/stories/2023/04/18/how-to-design-better-brand-guidelines-faster?utm_campaign=2023-04-19&utm_medium=email&utm_source=insider-20230419)
 
-### User Research
+## User Research
 
 **Additional Resources**
 * [When to Use Which User-Experience Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/)
 
-### Figma
-
-**Auto-layout** in Figma provides a flexbox-like environment to create responsive designs.
+## Figma
 
 Additional resources:
 * [Figma YT Channel](https://www.youtube.com/@Figma)
 * [Max’s Figma Playlist](https://www.youtube.com/playlist?list=PLlJddLya2kqlIrrgpO8odTK-awv-jZ0of)
 
-### Inspiration & Learning
+### Layout
+
+**Auto-layout** in Figma provides a flexbox-like environment to create responsive designs.
+
+### Typography
+
+To modify type directly, you may convert text to vector paths:
+  * Flatten text → converts to single layer (Cmd-E)
+  * Outline stroke → converts to multiple layers (Shift-Cmd-O)
+
+Additional resources:
+* [web typography basics in Figma](https://webdesign.tutsplus.com/web-typography-basics-in-figma--CRS-200982c)
+* [advanced typography design in Figma](https://webdesign.tutsplus.com/advanced-typography-design-in-figma--CRS-200991c/adjusting-font-sizes)
+
+## Inspiration & Learning
 
 **Platforms**
 * [Behance](https://www.behance.net/)

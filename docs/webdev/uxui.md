@@ -77,6 +77,13 @@ Additional resources:
 
 ## Client-Side Software
 
+### Javascript Linters, Formatters, and Codemods
+
+* [ESlint](https://eslint.org/)
+* [Prettier](https://prettier.io/)
+* [JS Codemod](https://github.com/facebook/jscodeshift)
+* [Suppress ESLint Codemod](https://github.com/amanda-mitchell/suppress-eslint-errors)
+
 ### Web Components
 
 **TODO: Add overview and fundamentals.**
