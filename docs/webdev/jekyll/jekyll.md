@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jekyll
-nav_order: 2
+nav_order: 3
 permalink: /webdev/jekyll
 parent: Web Development
 has_children: true
