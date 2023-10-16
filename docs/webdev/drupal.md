@@ -176,6 +176,8 @@ Debugging Twig:
   * Note: Twig Tweak provides a breakpoint Twig function method [`drupal_breakpoint()`](https://git.drupalcode.org/project/twig_tweak/-/blob/3.x/docs/cheat-sheet.md#drupal-breakpoint). Also, [`xdebug_break()`]() may be used in PHP code.
   * [Debugging Twig with XDebug](https://www.drupal.org/project/twig_xdebug)
 
+<!-- TODO: Add docs for accessing Drupal content in Twig like this: https://sarahcodes.medium.com/getting-drupal-8-field-values-in-twig-22b80cb609bd -->
+
 #### CSS
 
 Additional resources:
