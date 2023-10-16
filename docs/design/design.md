@@ -11,6 +11,16 @@ has_children: false
 Notes on many forms of design ranging from print and digital media to typography to UI/UX.
 {: .fs-6 .fw-300 }
 
+## UI and UX Design
+
+Additional resources:
+* [Mobile Navigation Patterns by NN/g](https://www.nngroup.com/articles/mobile-navigation-patterns/)
+* [“Mobile First is Not Mobile Only” by NN/g](https://www.nngroup.com/articles/mobile-first-not-mobile-only/)
+* [Hamburger Menus and Hidden Navigation Hurt UX Metrics by NN/g](https://www.nngroup.com/articles/hamburger-menus/)
+* [How to Make Navigation Discoverable on Mobile by NN/g](https://www.nngroup.com/articles/find-navigation-mobile-even-hamburger/)
+* [Maximize Content-Chrome Ratio, not Content](https://www.nngroup.com/articles/content-chrome-ratio/)
+* [Defer Secondary Content When Writing for Mobile Users](https://www.nngroup.com/articles/defer-secondary-content-for-mobile/)
+
 ## Design Trends
 
 For an overview of trends and tradeoffs, see this article from [Nielsen Norman Group](https://www.nngroup.com/articles/flat-design/).
