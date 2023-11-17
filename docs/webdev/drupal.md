@@ -61,15 +61,18 @@ Media module was added in Drupal 9. The media module treats media as an entity. 
 
 Modules are custom PHP software packages that augment how core drupal runs. They cover a wide variety of use cases.
 
-Useful modules:
-* BAT
+Useful modules for site management:
+* [Booking and Availability Management Tool](https://www.drupal.org/project/bat)
 * Simple google maps
 * Linkit
 * External links
 * Pathauto
+
+Useful modules for development:
 * Ctools
-* Token
-* Devel - development tools including content generation
+* Devel
+* [Entity Relationship Diagram](https://www.drupal.org/project/erd)
+* [WebProfiler](https://www.drupal.org/project/webprofiler)
 
 ## Users and Roles
 
@@ -150,6 +153,72 @@ References:
   * [API Docs w/ Examples](https://www.drupal.org/docs/develop/drupal-apis)
   * [API Docs from Source Code](https://api.drupal.org/api/drupal)
   * [Coding Standards](https://www.drupal.org/docs/develop/standards)
+
+### Site Configuration
+
+__TODO: Add notes on configuration files - including local config - folder and naming structure.__
+
+You may disable CSS and JS preprocessing in your local drupal PHP settings file like so:
+
+```php
+/**
+ * Disable CSS and JS aggregation.
+ */
+$config['system.performance']['css']['preprocess'] = FALSE;
+$config['system.performance']['js']['preprocess'] = FALSE;
+```
+
+You may enable verbose logging in your Drupal PHP settings file:
+```php
+/**
+ * Show all error messages, with backtrace information.
+ *
+ * In case the error level could not be fetched from the database, as for
+ * example the database connection failed, we rely only on this value.
+ */
+$config['system.logging']['error_level'] = 'verbose';
+```
+
+Lastly, you may disable all render caching in your Drupal PHP settings file like so:
+```php
+/**
+ * Disable the render cache.
+ *
+ * Note: you should test with the render cache enabled, to ensure the correct
+ * cacheability metadata is present. However, in the early stages of
+ * development, you may want to disable it.
+ *
+ * This setting disables the render cache by using the Null cache back-end
+ * defined by the development.services.yml file above.
+ *
+ * Only use this setting once the site has been installed.
+ */
+$settings['cache']['bins']['render'] = 'cache.backend.null';
+
+/**
+ * Disable Internal Page Cache.
+ *
+ * Note: you should test with Internal Page Cache enabled, to ensure the correct
+ * cacheability metadata is present. However, in the early stages of
+ * development, you may want to disable it.
+ *
+ * This setting disables the page cache by using the Null cache back-end
+ * defined by the development.services.yml file above.
+ *
+ * Only use this setting once the site has been installed.
+ */
+$settings['cache']['bins']['page'] = 'cache.backend.null';
+
+/**
+ * Disable Dynamic Page Cache.
+ *
+ * Note: you should test with Dynamic Page Cache enabled, to ensure the correct
+ * cacheability metadata is present (and hence the expected behavior). However,
+ * in the early stages of development, you may want to disable it.
+ */
+$settings['cache']['bins']['dynamic_page_cache'] = 'cache.backend.null';
+```
+
 
 ### Understanding A Drupal Site
 

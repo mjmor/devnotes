@@ -63,6 +63,19 @@ A focus on minimalism and lighting.
 
 https://medium.com/throughdesign/neumorphism-and-what-it-means-27c23da8576e
 
+## Forms
+
+Resources:
+* [Design of Forms](https://design-of-forms.online/)
+* [Forms that Work](https://app.thestorygraph.com/books/300338d2-2718-417c-9d8d-40c9354caee9)
+* [Good Services](https://app.thestorygraph.com/books/d0fc3539-07bb-4040-808b-a307a3584115)
+
+## Illustration
+
+Resources:
+* [Simply draw: learn to draw](https://apps.apple.com/us/app/simply-draw-learn-to-draw/id1639875485)
+* [CtrlPaint: learn digital painting](https://www.ctrlpaint.com/)
+
 ## Color Theory
 
 **Tools**
@@ -163,7 +176,7 @@ Additional resources:
 * [Pentagram Portfolio](https://www.pentagram.com/work/dream-org)
 * [Civilization](https://builtbycivilization.com/)
 * [Ruby Studio](https://rubystudio.dk/)
-* [Show](https://madebyshore.com/)
+* [Shore](https://madebyshore.com/)
 
 **Portfolio Sites**
 * [zachchristensen](https://www.zachchristensen.media/)
