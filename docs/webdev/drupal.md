@@ -235,7 +235,7 @@ associated with all sorts of objects in Drupal (Regions, Blocks, Nodes, Fields, 
 objects have defaults (defined via Drupal admin UI) that may be overridden. See
 file [pattern for overriding defaults](https://www.drupal.org/docs/theming-drupal/twig-in-drupal/twig-template-naming-conventions). Twig also provides [a debug utility](https://www.drupal.org/docs/theming-drupal/twig-in-drupal/locating-template-files-with-debugging) that shows which template file is generating the HTML for a given HTML section.
 
-[Twig Tweak](https://www.drupal.org/project/twig_tweak) is a module that provides many helper functions for template development. Check out the [Twig Tweak cheatsheet](https://git.drupalcode.org/project/twig_tweak/-/blob/3.x/docs/cheat-sheet.md).
+[Twig Tweak](https://www.drupal.org/project/twig_tweak) is a module that provides many helper functions for template development. Check out the [Twig Tweak cheatsheet](https://git.drupalcode.org/project/twig_tweak/-/blob/3.x/docs/cheat-sheet.md). Also, [Drupal provides additional Twig functions](https://www.drupal.org/docs/develop/theming-drupal/twig-in-drupal/functions-in-twig-templates) specific to Drupal.
 
 Debugging Twig:
   * [VSCode, XDebug, and Lando](https://docs.lando.dev/guides/lando-with-vscode.html)
