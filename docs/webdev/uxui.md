@@ -21,6 +21,11 @@ Foundational knowledge for all types of UX/UI development tasks ranging from the
 
 ## Themes & Styles
 
+### HyperText Markup Language (HTML)
+
+Additional resources:
+* [HTML Standard](https://html.spec.whatwg.org/)
+
 ### Cascading Style Sheets (CSS)
 
 **TODO: Add overview and fundamentals.**
