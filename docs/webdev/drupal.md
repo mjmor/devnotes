@@ -247,6 +247,8 @@ Debugging Twig:
 
 <!-- TODO: Add docs for accessing Drupal content in Twig like this: https://sarahcodes.medium.com/getting-drupal-8-field-values-in-twig-22b80cb609bd -->
 
+<!-- TODO: Add docs for templating views specifically like this: https://drupalize.me/tutorial/overview-theming-views -->
+
 #### CSS
 
 Additional resources:
