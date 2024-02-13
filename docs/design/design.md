@@ -172,6 +172,9 @@ Additional resources:
 * [Behance](https://www.behance.net/)
 * [Dribbble](https://dribbble.com/)
 
+**Awards**
+* [Awwwards](https://www.awwwards.com/websites/sites_of_the_day/)
+
 **Specific Design Studios**
 * [Pentagram Portfolio](https://www.pentagram.com/work/dream-org)
 * [Civilization](https://builtbycivilization.com/)
@@ -187,6 +190,7 @@ Additional resources:
 * [scriblscribl](https://scriblscribl.com/)
 
 **Learning Resources**
+* [BBC Maestro | Graphic Design w/ Paula Scher](https://www.bbcmaestro.com/courses/paula-scher/graphic-design)
 * [UX Design Challenges @ UXTools](https://uxtools.co/challenges/)
 * [UX And Product Design Challenges @ Drawerrr](https://drawerrr.com/challenge)
 * [Weekly Challenges @ Dribble](https://dribbble.com/tags/weekly_design_challenge)
