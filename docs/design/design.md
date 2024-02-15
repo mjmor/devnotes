@@ -190,7 +190,7 @@ Additional resources:
 * [scriblscribl](https://scriblscribl.com/)
 
 **Learning Resources**
-* [BBC Maestro | Graphic Design w/ Paula Scher](https://www.bbcmaestro.com/courses/paula-scher/graphic-design)
+* [BBC Maestro - Graphic Design w/ Paula Scher](https://www.bbcmaestro.com/courses/paula-scher/graphic-design)
 * [UX Design Challenges @ UXTools](https://uxtools.co/challenges/)
 * [UX And Product Design Challenges @ Drawerrr](https://drawerrr.com/challenge)
 * [Weekly Challenges @ Dribble](https://dribbble.com/tags/weekly_design_challenge)
