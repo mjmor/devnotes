@@ -11,7 +11,7 @@ has_children: false
 Notes on many forms of design ranging from print and digital media to typography to UI/UX.
 {: .fs-6 .fw-300 }
 
-## UI and UX Design
+## UI and UX Design Fundamentials
 
 Additional resources:
 * [Mobile Navigation Patterns by NN/g](https://www.nngroup.com/articles/mobile-navigation-patterns/)
@@ -20,6 +20,12 @@ Additional resources:
 * [How to Make Navigation Discoverable on Mobile by NN/g](https://www.nngroup.com/articles/find-navigation-mobile-even-hamburger/)
 * [Maximize Content-Chrome Ratio, not Content](https://www.nngroup.com/articles/content-chrome-ratio/)
 * [Defer Secondary Content When Writing for Mobile Users](https://www.nngroup.com/articles/defer-secondary-content-for-mobile/)
+
+## Web Design
+
+Tools:
+* [Relume - AI powered sitemap and wireframe builder](https://www.relume.io/)
+* [Webflow - Visual site builder with great design/development support](https://www.webflow.com)
 
 ## Design Trends
 
