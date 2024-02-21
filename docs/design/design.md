@@ -26,6 +26,8 @@ Additional resources:
 Tools:
 * [Relume - AI powered sitemap and wireframe builder](https://www.relume.io/)
 * [Webflow - Visual site builder with great design/development support](https://www.webflow.com)
+* [LottieFiles - An animation spec for 2D animation with support in most modern web frameworks](https://lottiefiles.com/)
+* [Spline - A tool for 3D animation design, rendering, and collaboration](https://spline.design/)
 
 ## Design Trends
 
