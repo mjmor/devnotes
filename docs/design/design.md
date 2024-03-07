@@ -184,6 +184,8 @@ Additional resources:
 * [Awwwards](https://www.awwwards.com/websites/sites_of_the_day/)
 
 **Specific Design Studios**
+* [Dog Studio](https://dogstudio.co/)
+* [Layout Studio](https://www.layoutstudio.design/)
 * [Pentagram Portfolio](https://www.pentagram.com/work/dream-org)
 * [Civilization](https://builtbycivilization.com/)
 * [Ruby Studio](https://rubystudio.dk/)
