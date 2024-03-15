@@ -23,6 +23,9 @@ Foundational knowledge for all types of UX/UI development tasks ranging from the
 
 ### HyperText Markup Language (HTML)
 
+Tools:
+* [HTML Validator](https://validator.w3.org)
+
 Additional resources:
 * [HTML Standard](https://html.spec.whatwg.org/)
 
