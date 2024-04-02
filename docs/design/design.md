@@ -26,6 +26,7 @@ Additional resources:
 Tools:
 * [Relume - AI powered sitemap and wireframe builder](https://www.relume.io/)
 * [Webflow - Visual site builder with great design/development support](https://www.webflow.com)
+* [Framer - A visual site builder with great design/development support](https://www.framer.com)
 * [LottieFiles - An animation spec for 2D animation with support in most modern web frameworks](https://lottiefiles.com/)
 * [Spline - A tool for 3D animation design, rendering, and collaboration](https://spline.design/)
 
@@ -186,6 +187,7 @@ Additional resources:
 **Specific Design Studios**
 * [Dog Studio](https://dogstudio.co/)
 * [Layout Studio](https://www.layoutstudio.design/)
+* [Thought Lab](https://www.thoughtlab.com/)
 * [Pentagram Portfolio](https://www.pentagram.com/work/dream-org)
 * [Civilization](https://builtbycivilization.com/)
 * [Ruby Studio](https://rubystudio.dk/)
