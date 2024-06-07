@@ -27,8 +27,19 @@ Tools:
 * [Relume - AI powered sitemap and wireframe builder](https://www.relume.io/)
 * [Webflow - Visual site builder with great design/development support](https://www.webflow.com)
 * [Framer - A visual site builder with great design/development support](https://www.framer.com)
+
+### Motion Design
+
+Tools:
 * [LottieFiles - An animation spec for 2D animation with support in most modern web frameworks](https://lottiefiles.com/)
 * [Spline - A tool for 3D animation design, rendering, and collaboration](https://spline.design/)
+
+Resources:
+* [Large List of Motion Design Resources, Tools, and People](https://bootcamp.uxdesign.cc/the-ultimate-list-of-motion-design-resources-1def1cf0fe51)
+* [Guide on Transitions from Material3](https://m3.material.io/styles/motion/transitions/transition-patterns)
+* [Proper Use of Animation in UX](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
+* [Practical Guide to Transition Animations in UX](https://uxdesign.cc/transition-animations-a-practical-guide-5dba4d42f659)
+* [Keeping Animations Accessible](https://www.w3.org/WAI/tutorials/carousels/animations/?utm_source=convertkit&utm_medium=email&utm_campaign=A%20guide%20to%20transition%20animations%20%F0%9F%94%84%20-%2014011399)
 
 ## Design Trends
 
