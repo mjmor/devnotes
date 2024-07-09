@@ -194,6 +194,7 @@ Additional resources:
 
 **Awards**
 * [Awwwards](https://www.awwwards.com/websites/sites_of_the_day/)
+* [Webby](https://winners.webbyawards.com/winners/websites-and-mobile-sites?years=0&sort=0)
 
 **Specific Design Studios**
 * [Dog Studio](https://dogstudio.co/)
