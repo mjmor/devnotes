@@ -192,11 +192,14 @@ Additional resources:
 * [Behance](https://www.behance.net/)
 * [Dribbble](https://dribbble.com/)
 
-**Awards**
+**Awards & Showcases**
 * [Awwwards](https://www.awwwards.com/websites/sites_of_the_day/)
 * [Webby](https://winners.webbyawards.com/winners/websites-and-mobile-sites?years=0&sort=0)
+* [GSAP Showcase](https://gsap.com/showcase/?page=1)
 
 **Specific Design Studios**
+* [OK Alpha](https://www.okalpha.co/)
+* [Jomor Design](https://www.jomor.design/)
 * [Dog Studio](https://dogstudio.co/)
 * [Layout Studio](https://www.layoutstudio.design/)
 * [Thought Lab](https://www.thoughtlab.com/)
@@ -206,6 +209,7 @@ Additional resources:
 * [Shore](https://madebyshore.com/)
 
 **Portfolio Sites**
+* [louiesellers](https://www.recapafteruse.co.uk/)
 * [zachchristensen](https://www.zachchristensen.media/)
 * [luckypetegraphics](https://www.luckypetegraphics.com/)
 * [vincentpeterson](https://www.vincentpeterson.com/)
